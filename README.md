@@ -1,9 +1,9 @@
-#HCL VoltMax Hackathon Project
-##Description
-###This repository contains the code and resources for our submission to the prestigious HCL VoltMax Hackathon, where we built an innovative app using the HCL Volt MX tool.
+# HCL VoltMax Hackathon Project
+## Description
+### This repository contains the code and resources for our submission to the prestigious HCL VoltMax Hackathon, where we built an innovative app using the HCL Volt MX tool.
 
-##About the Hackathon
-###The HCL VoltMax Hackathon is an esteemed event that encourages participants to explore the capabilities of the HCL Volt MX platform and build cutting-edge ###applications. Volt MX is a powerful low-code application development tool that allows developers to rapidly create robust and scalable applications.
+## About the Hackathon
+### The HCL VoltMax Hackathon is an esteemed event that encourages participants to explore the capabilities of the HCL Volt MX platform and build cutting-edge applications. Volt MX is a powerful low-code application development tool that allows developers to rapidly create robust and scalable applications.
 
 Our Project: Foodibae
 Our project, Foodibae, is a convenient platform that allows users to explore various restaurants, select their favorite dishes, and place orders for delivery or pickup. With a user-friendly interface and seamless payment integration, the app provides a hassle-free experience for ordering food on the go
