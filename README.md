@@ -1,4 +1,7 @@
 # HCL VoltMax Hackathon Project
+
+
+
 ## Description
 ### This repository contains the code and resources for our submission to the prestigious HCL VoltMax Hackathon, where we built an innovative app using the HCL Volt MX tool.
 
@@ -62,6 +65,7 @@ Thank you for your interest in our project!
 # SCREENSHOTS
 ![Foodibae app](https://i.ibb.co/2hTDckX/Group-20.png>)
 
+https://github.com/Dev-Hoax/foodibae/assets/85429816/f4df9762-d9a9-4e39-a1b9-de1443c92125
 
 
 
