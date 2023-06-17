@@ -59,7 +59,8 @@ Contact Information
 If you have any questions, feedback, or inquiries related to this project, feel free to reach out to us at [email address] or [other contact information].
 
 Thank you for your interest in our project!
-
+# SCREENSHOTS
+![Foodibae app](https://i.ibb.co/2hTDckX/Group-20.png>)
 
 
 
