@@ -1,3 +1,7 @@
+
+
+
+
 # HCL VoltMax Hackathon Project
 
 
@@ -67,9 +71,13 @@ Thank you for your interest in our project!
 
 # APP DEMO
 
-https://github.com/Dev-Hoax/foodibae/assets/85429816/f4df9762-d9a9-4e39-a1b9-de1443c92125
 
 
+
+
+
+
+https://github.com/Dev-Hoax/foodibae/assets/85429816/202432cb-cd3d-47fa-98a0-a6a292ee19dc
 
 
 
